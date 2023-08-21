@@ -6,6 +6,9 @@ dotnet tool install --global dotnet-ef --version 6.*
 
 dotnet ef database update
 
+Need .net 6 framwork to run application
+
+Needs to install visuall studio 2022 or Visual studio code with .net 6 
 API Projects Running indivudual Port
 https://github.com/Jagadeeshwar011/Pokemon-Api.git
 
