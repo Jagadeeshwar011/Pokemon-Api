@@ -6,3 +6,5 @@ dotnet tool install --global dotnet-ef --version 6.*
 
 dotnet ef database update
 
+
+https://github.com/Jagadeeshwar011/Pokemon-Api.git
